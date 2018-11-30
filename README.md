@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my github page feel free to go to all the click me's ok ;)
 Welcome to the site feel free to help the growth of this site by going to 
 
 [click me](https://github.com/water900/water900.github.io/edit/master/README.md)
